@@ -34,4 +34,5 @@ Run 2's gains came mostly from the weaker classes, tank AP@50 rose from 0.622 to
 
 ## Results write up 
 
-
+<img width="1275" height="1650" alt="task 1 report_page-0001" src="https://github.com/user-attachments/assets/15b168ff-3576-4050-8d05-fc2a26d6c348" />
+<img width="1275" height="1650" alt="task 1 report_page-0002" src="https://github.com/user-attachments/assets/558e31bc-3697-4b72-8fd6-bd1f06bf20c7" />
